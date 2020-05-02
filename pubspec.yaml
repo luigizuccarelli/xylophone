@@ -11,6 +11,9 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  audioplayer: ^0.8.1
+  audioplayer_web: 0.7.1
+  path_provider:
 
 dev_dependencies:
   flutter_test:
